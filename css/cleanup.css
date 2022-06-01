@@ -1,1 +1,20 @@
-/* write your override styles here */
+body {
+    max-width: 800px;
+    margin-left: 300px
+}
+#wall .tag-1 {
+    margin-left: 300px;
+    margin-top: 300px;
+}
+#wall #tag-3 {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.parent #tag-4 {
+    width: 12%;
+    margin-left: 900px;
+}
+.parent #tag-5 {
+    margin-left: -10px;
+    margin-top: -100px;
+}
